@@ -1,0 +1,12 @@
+REGISTER sip:3D6cnUa9xL2jYrF SIP/2.0
+Call-ID: hxqrPceF-xVmj-dRs4-hPoN-V0A9bhWkQlIq
+To: <sip:sCDtRfbzqwL1i8E7G2MQ@3D6cnUa9xL2jYrF>
+From: "R2hObSCPxg" <sip:sCDtRfbzqwL1i8E7G2MQ@3D6cnUa9xL2jYrF>;tag=h2Ns74Ii-lHCr-aDBC-j01r-0KCuvyUBZMgT
+Max-Forwards: 82
+User-Agent: sp1bPmB5VdWvCAnc4RZHfz2oE60KjJ
+Contact: <sip:sCDtRfbzqwL1i8E7G2MQ@1.135.60.161:41.74.128.141;transport=UDP>;q=1.00;agentid="ESql3TA5-jIRp-wJl8-9wFr-VpX0w57ycqGE";methods="INVITE,NOTIFY,MESSAGE,ACK,BYE,CANCEL";expires=91
+CSeq: 7 REGISTER
+Content-Length: 0
+Via: SIP/2.0/UDP 226.231.145.89:9929;branch=XOZ5zex4-zMHt-W0R9-lmVy-2PSTeYWGVc5o;rport
+Authorization: Digest username="sCDtRfbzqwL1i8E7G2MQ@3D6cnUa9xL2jYrF", realm="3D6cnUa9xL2jYrF", nonce="n8iMWe4w-U5yj-W4Gp-wKxH-ocKD9nUrZHph", uri="sip:3D6cnUa9xL2jYrF", qop=auth, nc=00000001, cnonce="rGOMJqd9-Aaqz-9Z62-dten-oBn7EczTVupm", response="Di4hw7H9zN2q5tEuekZMclS1CrgABJGd", opaque=""
+

@@ -1,0 +1,33 @@
+.. :changelog:
+
+History
+-------
+
+0.2
+++++++++++++++++++
+* Default message template(only register now)
+* Specific show command
+* New history menu
+* Line parsing changes
+* New command: load the pcap file
+* New command: save the packets
+* New command: parse the text file to packet
+* New command: open the packets on wireshark
+* Seperate cmd loops
+* Fix: root problem
+* Change directory structure
+
+0.1.1
+++++++++++++++++++
+* Parsing with argparse lib
+* Nested cmd loops
+* Fix little bugs
+
+0.1.0
+++++++++++++++++++
+
+* Create sip request packet
+* Modify the properties of ip, udp and sip layer
+* Send the packet
+* History & log config
+* Create variable for hold the packet

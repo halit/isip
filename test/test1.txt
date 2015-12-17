@@ -1,0 +1,12 @@
+INVITE sip:13@10.10.1.13 SIP/2.0
+Via: SIP/2.0/UDP 10.10.1.99:5060;branch=z9hG4bK343bf628;rport
+From: "Test 15" <sip:15@10.10.1.99>tag=as58f4201b
+To: <sip:13@10.10.1.13>
+Contact: <sip:15@10.10.1.99>
+Call-ID: 326371826c80e17e6cf6c29861eb2933@10.10.1.99
+CSeq: 102 INVITE
+User-Agent: Asterisk PBX
+Max-Forwards: 70
+Date: Wed, 06 Dec 2009 14:12:45 GMT
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY
+

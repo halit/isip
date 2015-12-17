@@ -1,0 +1,40 @@
+INVITE sip:gLDhFM8ATLYs355@None SIP/2.0
+Via: SIP/2.0/UDP 233.186.217.92:1401;branch=pG33U7n2-TmUM-GKTw-46kw-VnmGuLaX3b0z
+Max-Forwards: 26
+Content-Length: 444
+To: S4mcysV2gB <sip:gLDhFM8ATLYs355@None>
+From: "S4mcysV2gB" <sip:gLDhFM8ATLYs355@None:1401>;tag=J5p6yoSJ-dwLD-oOkR-pCFe-8aW2kSmWgVwk
+Call-ID: z9zV2LfB-4YTe-ZbIZ-PPUo-DnFHrDjNcrwu
+CSeq: 7 INVITE
+Supported: timer
+Allow: NOTIFY
+Allow: REFER
+Allow: OPTIONS
+Allow: INVITE
+Allow: ACK
+Allow: CANCEL
+Allow: BYE
+Content-Type: application/sdp
+Contact: <sip:gLDhFM8ATLYs355@None:1401>
+Supported: replaces
+User-Agent: L6YYgoA9MeGLifaJhia02GgS1RY1LX
+
+v=0
+o=MxSIP 0 639859198 IN IP4 235.13.171.144
+s=SIP Call
+c=IN IP4 176.16.17.30
+t=0 0
+m=audio 16388 RTP/AVP 0 18 101 102 107 104 105 106 4 8 103
+a=rtpmap:0 PCMU/8000
+a=rtpmap:18 G729/8000
+a=rtpmap:101 BV16/8000
+a=rtpmap:102 BV32/16000
+a=rtpmap:107 L16/16000
+a=rtpmap:104 PCMU/16000
+a=rtpmap:105 PCMA/16000
+a=rtpmap:106 L16/8000
+a=rtpmap:4 G723/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:103 telephone-event/8000
+a=fmtp:103 0-15
+a=silenceSupp:off - - - -
