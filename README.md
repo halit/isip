@@ -2,6 +2,10 @@
 
 > Interactive sip toolkit for packet manipulations, sniffing, man in the middle attacks, fuzzing, simulating of dos attacks.
 
+## Video
+
+https://asciinema.org/a/11128
+
 ## Setup
 
 ``` sh
